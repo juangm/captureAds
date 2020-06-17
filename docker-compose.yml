@@ -1,0 +1,12 @@
+version: "2"
+services:
+  ad-track:
+    container_name: "add_track_1"
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/app
+    network_mode: "host"
+    env_file:
+      - .env
