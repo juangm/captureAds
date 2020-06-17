@@ -1,0 +1,11 @@
+{
+  "name": "eyeo-exercise",
+  "version": "1.0.0",
+  "description": "Small project to detect ads and generate image pointing the place of the ads",
+  "main": "index.js",
+  "author": "Juan Garcia Marin",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
