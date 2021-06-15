@@ -1,5 +1,8 @@
 # Capturing ADS
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+This project is no longer supported.
+
 ## Description
 
 - Automated capturing of specific ad units
