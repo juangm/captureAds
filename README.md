@@ -1,7 +1,6 @@
-# Capturing ADS
-
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-This project is no longer supported.
+
+# Capturing ADS
 
 ## Description
 
